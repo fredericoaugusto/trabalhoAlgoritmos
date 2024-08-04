@@ -1,4 +1,4 @@
-# Projeto de Biblioteca de Classes para Manipulação de Vetores Dinâmicos
+# Projeto de Biblioteca de Classes para Manipulação de Vetores Dinâmicos para a disciplina de Algoritmos no curso Tecnólogo em Análise em Desenvolvimento de Sistemas pelo IFRN.
 
 Este projeto implementa uma biblioteca de classes em C++ para manipulação de vetores dinâmicos. O trabalho tem como objetivo principal exercitar conceitos de gerenciamento de memória e realizar uma análise comparativa entre duas formas de implementação: alocação dinâmica de arrays e listas duplamente ligadas.
 
